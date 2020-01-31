@@ -1,5 +1,7 @@
 # vue_opdracht
 
+## Live Link: http://25953.hosts2.ma-cloud.nl/bewijzenmap/jaar2/frontend/vue_training/dist/
+
 ## Project setup
 ```
 npm install
